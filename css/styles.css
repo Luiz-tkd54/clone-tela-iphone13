@@ -133,7 +133,7 @@ header nav{
     /* para fazer a tranzição de foto futuramente
     utilizando o JAVASCRIPT  */
     /* Ainda a fazer  */
-#main-content #product-image.ichangng{
+#main-content #product-image.changing{
     opacity: 0.5;
 }
 
